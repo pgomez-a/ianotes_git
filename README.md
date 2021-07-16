@@ -7,9 +7,20 @@ Este programa simula una **máquina de venta electrónica de billetes de tren**.
 ### Ejecución del programa
 Los pasos que debes seguir para poder crear el programa son:
 1. Clona el repositorio de trabajo en tu ordenador
+
+       git clone https://github.com/pgomez-a/ianotes_git.git
+       
 2. Accede al repositorio de trabajo
+
+       cd ianotes_git
+       
 3. Ejecuta el comando **make**
+
+       make
+
 4. Ejecuta el programa **'tren'**
+
+       ./tren
 
 ### Desarrollo del programa
 El programa ha sido desarrolaldo teniendo en cuenta los siguientes requisitos:
