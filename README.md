@@ -1,4 +1,4 @@
-# ianotes_git
+# Proyecto para curso Git de IA Notes
 El presente repositorio ha sido elaborado con el objetivo de facilitar las explicaciones dadas en el **[curso de Git de la página de IA Notes](https://ia-notes.com/curso-de-git/)**. Dada la gran cantidad de comandos existentes en Git, es necesario poder trabajar con un proyecto con el que experimentar y probar todo lo aprendido. Mediante el uso de este repositorio se pretende que la persona interesada en seguir dicho curso sea capaz de aplicar, de forma práctica, todo el contenido teórico que recibe.
 
 ### Descripción del programa
